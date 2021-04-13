@@ -5,7 +5,6 @@ body {
 
 .hero {
     height:60vh;
-    width:600px;
     background: whitesmoke;
-    background: url(../john-coltrane-bio/images/john\ coltrane2.jpg);
+    background: url("images/john-coltrane2.jpg");
 }
